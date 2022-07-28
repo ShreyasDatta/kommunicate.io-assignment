@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Key Parameter</title>
+</head>
+
+<body>
+	<h1>Answer 2</h1>
+	<b>
+		Get URL Parameters and return value.
+	</b>
+	<p class="urllink"> The url is:
+        <input id="url" placeholder="Enter the URL"></input>
+	</p>
+
+	<p> Click on the button to get the url parameters in the console. </p>
+
+	<button class="click" onclick="getParameters()"> Get URL parameters </button>
+
+    <p id="anskey">Key is: </p>
+    <p id="ansval">Key is: </p>
+	<script>
+	function getParameters() {
+        let urlString = document.getElementById("url").value;
+		let paramString = urlString.split('?')[1];
+		let queryString = new URLSearchParams(paramString);
+		for(let pair of queryString.entries()) {
+			console.log("Key is:" + pair[0]);
+			console.log("Value is:" + pair[1]);
+            var rev = pair[0];
+            document.getElementById("anskey").innerHTML = rev;
+            var res = pair[1];
+            document.getElementById("ansval").innerHTML = res;
+		}
+	}
+	</script>
+</body>
+
+</html>
