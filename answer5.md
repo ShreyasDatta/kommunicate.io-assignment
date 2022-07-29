@@ -3,8 +3,8 @@
 1. Siddhant Priyadarshi 
     - Astute worker and team player with a strong sense of responsibility.
     - Has a strong passion for learning and is always looking to improve his skills.
-    - Has a strong sense of responsibility and a strong sense of responsibility.
-2. Siddhant Gupta
+    - Well versed with UI-UX paradigms and creative thinking.
+2. Mudit Rastogi
     - Able to work under pressure and is a quick learner.
-    - Has a strong sense of responsibility and a strong sense of responsibility.
-    - Has a strong sense of responsibility and a strong sense of responsibility.
+    - Have worked with him on multiple passion projects, including a game.
+    - Is a talented artist and skilled developer.
