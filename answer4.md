@@ -1,6 +1,7 @@
 # e-Commerce Chatbot 
 ### Powered by Rasa Open Source written in Python
 >[Check out the Github repo | click here](https://github.com/ShreyasDatta/e-Commerce-chatbot-rasa)
+![e-Commerce_chatbot](https://i.imgur.com/bnAOaY1.png)
 
 A chatbot capable of reading, deciphering intents from user messages, and output appropriate responses based
 on it. Assist in searching for products and narrowing down searches through conversations. Place orders and
